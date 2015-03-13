@@ -1,0 +1,1 @@
+example project to get started log4j logs to kafka
